@@ -1,0 +1,14 @@
+# C
+*.o
+*.out
+*.exe
+
+# Java
+*.class
+
+# VS Code
+.vscode/
+
+# Linux
+*~
+
