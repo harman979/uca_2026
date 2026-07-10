@@ -5,7 +5,7 @@
 #define LOGFILE "audit.log"
 #define BUF_SIZE 1024
 
-void write_str(int fd, const char *s) {
+void write_str(int fd, const char *s) { 
     write(fd, s, strlen(s));
 }
 
